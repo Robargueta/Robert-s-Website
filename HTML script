@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>'Welcome to my Robert Argueta'</title>
+<img src="air-jordan-2-low-mike-bibby-pe-1.jpg" alt="Mike Bibby Jordan 2 Low PE"
+style="width:40px;height:40px;">
+  <link rel="stylesheet" type="text/css" href="text.css">
+</head>
+<body>
+
+  <header>
+    <ul>
+   <li>About Me</li>
+   <li>Sneakers</li>
+   <li>Renovating sneakers</li>
+    </ul>
+  </header>
+
+  <div class="Introduction">
+    <h1>Welcome to my website</h1>
+    <p class="alt">Hello, my name is Robert Argueta. I work in the marketing/adverstising
+      sector and given the creative nature of such work environments, it is of
+      surprise that I love dressing up fashionably to work. My passions include
+      buying sneakers, primarily from Air Jordan and Nike, two of the most iconic
+      sneaker brands in history.
+    </p>
+  </div>
+
+  <div class="Samples">
+    <h4>What are samples?</h4>
+    <h2>Samples are shoes that wear going to be mass produced, but for other reasons, the sneakers never made it to retail.</h2>
+
+
+  <div class="Samples">
+    <h4>Look See Samples</h4>
+    <p2>I try to keep up to date with the latest fashion in active wear. With respect to samples, look see samples are production samples that are limited to very few numbers. Many sneaker connoisseurs actively seek out these kinds of sneakers because of their rarity.</p2>
+
+  <div class="question">
+    <h4>Supreme</h4>
+    <h2>I purchase clothing online regularly. Most of the clothing that I buy come from vintage stores and Ebay. </h2>
+
+  <div class="Wear">
+    <h4>Question 4</h4>
+    <h2>I try to buy goods that are designed and/or manufactured in my home country.</h2>
+
+
+</body>
+</html>
